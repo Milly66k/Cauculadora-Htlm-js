@@ -21,7 +21,7 @@ A calculadora inclui as seguintes operações:
 - **Divisão Inteira:** Resto da divisão entre dois valores.
 - **Potenciação:** Resultado de elevar um número ao outro.
 
-## Validations
+## Validações
 
 O código incorpora verificações para garantir a validade das operações e valores fornecidos pelo usuário. Se ocorrer um erro, o usuário será notificado e a aplicação oferecerá a oportunidade de tentar novamente.
 
